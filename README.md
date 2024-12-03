@@ -3,4 +3,4 @@
 Borrowing & Lending on Aptos
 
 ## Bug Bounty
-If you have found bug in the smart contract, please send an email to hello@ariesmarkets.xyz for rewards
+If you have found bug in the smart contract, please contact us for rewards
